@@ -48,7 +48,7 @@ A centralized administrative portal for an online clothing brand, supporting pro
 
 A multi-platform memory card game featuring a native Android frontend integrated with a .NET 8 Web API backend. Demonstrates a complete client-server lifecycle with secure auth, multi-threaded asset loading, and a global leaderboard.
 
-**My Contributions (Lead Backend Developer & Integrator):**
+**My Contributions (Backend Developer & Integrator):**
 - Authored the **`API_CONTRACT.md`** spec used by the team for parallel development
 - Implemented the **.NET `AuthController`** for user credential validation against MySQL (Free vs. Paid tiers)
 - Built the Android **`NetworkManager`** for asynchronous `HttpURLConnection` requests with custom headers
