@@ -1,6 +1,6 @@
 # Hi, I'm Xiao Bo 👋
 
-Full-stack developer with hands-on experience building production-grade applications across mobile, web, and cloud. I enjoy working across the stack — from REST API design and ML service integration to Android clients and DevOps pipelines.
+Software developer with hands-on experience building production-grade applications across mobile, web, and cloud. I enjoy working across the stack — from REST API design and ML service integration to Android clients and DevOps pipelines.
 
 ---
 
